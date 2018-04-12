@@ -1,0 +1,10 @@
+[package]
+name = "chemistry-panic"
+version = "0.1.0"
+authors = ["Kim Desrosiers <kimdesro@gmail.com>"]
+
+[dependencies]
+ggez = "0.4"
+
+[features]
+cargo-resource-root = []
